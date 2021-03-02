@@ -1,1 +1,1 @@
-# rust_things
+# Recording some feature about Rust!
